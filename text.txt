@@ -9,7 +9,7 @@ class Fibonacci
         Console.WriteLine(Fib(number));
     }
 
-    public static int Fib(int n)
+    public static int Fib(n)
     {
         if (n <= 0)
         {
